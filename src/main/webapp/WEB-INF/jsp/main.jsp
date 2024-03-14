@@ -10,7 +10,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>どこつぶ</title>
+<title>どこつぶてすと</title>
 <style>
 	body{
 	text-align:center
